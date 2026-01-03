@@ -2,7 +2,7 @@
 I'm currently working on MERN Stack and React-Native projects<br>
 I'm looking to collaborate with multinational (MnC) companies and growing fintech and edtech startups<br>
 I'm seeking guidance from individuals working in larger companies<br>
-I'm currently learning Data Structures and Algorithms (DSA) and System Design
+I'm currently learning Data Structures and Algorithms (DSA) and Java Full Stack
 
 
 ## 🌐 Socials:
